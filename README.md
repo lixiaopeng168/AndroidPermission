@@ -46,8 +46,4 @@ PermissionUtils.getInstance().setIsAuthor(IsAuthor.INSPECT).setPermission(per)
                                 show("授权成功");
                             }
                         });
-```                        
-
-
-
-
+```
