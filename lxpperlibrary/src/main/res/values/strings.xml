@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lxpPerLibrary</string>
+    <string name="permission_photo">您还没有授权拍照权限。是否设置授权?</string>
+    <string name="permission_sd">您还没有授权sd权限，无法使用图片保存，读取相册，缓存等功能，是否设置授权</string>
+
+    <string name="permission_refuse_location">您还没有授权定位权限，无法使用天气功能，附近好友，发送位置等功能，是否设置授权</string>
+
+    <string name="permission_audio">你还没有麦克风权限,无用使用帮帮回答，求教等功能，是否设置授权</string>
+    <string name="permission_msn">您还没有发送短信权限，无用使用短信分享功能，是否设置授权</string>
+    <string name="permission_call">您还没有发送拨打电话权限，无用使用拨打电话功能，是否设置授权</string>
+    <string name="permission_read_contants">您还没有读取通讯录权限，无用使用读取通讯录功能，是否设置授权</string>
+    <string name="cancle">取消</string>
+    <string name="permission_setting">去设置</string>
+</resources>
